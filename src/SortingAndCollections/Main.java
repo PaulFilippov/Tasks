@@ -2,29 +2,28 @@ package SortingAndCollections;
 
 import SortingAndCollections.SortingMethod;
 
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.Iterator;
+import java.util.*;
 
 
 public class Main {
 
+    private static int[] array1={4,1,7,5,8,3};
+
     public static void main(String args[]) {
 
-        SortingMethod.bubbleSort(SortingMethod.makeArray());
-        SortingMethod.bubbleSort(SortingMethod.makeRandArray(10));
+        //SortingMethod.bubbleSort(SortingMethod.makeArray());
+        SortingMethod.quickSort(array1,0,array1.length-1);
+        System.out.println(Arrays.toString(array1));
 
         CollectionTest test1 = new CollectionTest(1, 5);
-        CollectionTest test2 = new CollectionTest(1, 5);
+
+/*        CollectionTest test2 = new CollectionTest(1, 5);
         System.out.println(test1 == test2);
         System.out.println(test1.equals(test2));
 
-
-      int[] array1={2,3,6,1,5,4};
-      int array2[]={24,31,63,16,52,47};
-     // ArrayList <Integer> list1= new ArrayList <Integer> (Arrays.asList(array1));
-     // ArrayList <Integer> list2= new ArrayList <Integer> (Arrays.asList(array2));
-     // merge1(list1, list2);
+      ArrayList <Integer> list1= new ArrayList <Integer> (Arrays.asList(array1));
+      ArrayList <Integer> list2= new ArrayList <Integer> (Arrays.asList(array2));
+      merge1(list1, list2);*/
 
     }
 

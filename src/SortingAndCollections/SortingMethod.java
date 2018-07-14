@@ -18,6 +18,8 @@ public class SortingMethod {
         for (int i = 0; i < sizemas; i++) {
             arrayint[i] = random.nextInt(101) - 50;
         }
+        String intArrayString = Arrays.toString(arrayint);
+        System.out.println(intArrayString);
         return arrayint;
     }
 
@@ -48,7 +50,7 @@ public class SortingMethod {
             }
         /*Если нашелся элемент, меньший, чем на текущей позиции,
           меняем их местами*/
-            if (i != min_i) {
+            if (i != min_i) { //если 1й элемент минимальный, то не перезаписываем его в себя же
                 int tmp = arr[i];
                 arr[i] = arr[min_i];
                 arr[min_i] = tmp;
@@ -105,5 +107,37 @@ public class SortingMethod {
         String intArrayString = Arrays.toString(arr);
         System.out.println(intArrayString);
     }
+
+
+    public static void quickSort(int arr[], int left, int right) {
+        int index = partition(arr, left, right);
+        if (left < index - 1)
+            quickSort(arr, left, index - 1);
+        if (index < right)
+            quickSort(arr, index, right);
+    }
+
+    static int partition(int arr[], int left, int right)
+    {
+        int i = left, j = right;
+        int tmp;
+        int pivot = arr[(left + right) / 2];
+
+        while (i <= j) {
+            while (arr[i] < pivot)
+                i++;
+            while (arr[j] > pivot)
+                j--;
+            if (i <= j) {
+                tmp = arr[i];
+                arr[i] = arr[j];
+                arr[j] = tmp;
+                i++;
+                j--;
+            }
+        }
+        return i;
+    }
+
 
 }

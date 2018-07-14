@@ -1,5 +1,9 @@
 package SortingAndCollections;
 
+import com.sun.org.apache.xerces.internal.xs.datatypes.ObjectList;
+
+import java.util.*;
+
 public class CollectionTest {
 
     private int a;
@@ -8,6 +12,10 @@ public class CollectionTest {
     public CollectionTest(int a, int b) {
         this.a = a;
         this.b = b;
+    }
+
+    public CollectionTest() {
+
     }
 
     @Override
@@ -35,4 +43,5 @@ public class CollectionTest {
             return false;
         return true;
     }
+
 }
