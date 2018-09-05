@@ -2,34 +2,97 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4b92d9c5-e7e8-4b31-9634-2cc38d6cf19f" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/Tasks.iml" afterPath="$PROJECT_DIR$/Tasks.iml" />
-      <change beforePath="$PROJECT_DIR$/out/production/Tasks/ForTests/Main.class" afterPath="$PROJECT_DIR$/out/production/Tasks/ForTests/Main.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/Tasks/One/BelowFive.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Tasks/One/Cats$Cat.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Tasks/One/Cats.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Tasks/One/Five.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Tasks/One/Four.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Tasks/One/Interval.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Tasks/One/NearestToTen.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Tasks/One/NegativeNumber.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Tasks/One/One.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Tasks/One/Season.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Tasks/One/Three.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Tasks/One/Two.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/ForTests/Main.java" afterPath="$PROJECT_DIR$/src/ForTests/Main.java" />
-      <change beforePath="$PROJECT_DIR$/src/One/BelowFive.java" afterPath="$PROJECT_DIR$/src/JR/BelowFive.java" />
-      <change beforePath="$PROJECT_DIR$/src/One/Cats.java" afterPath="$PROJECT_DIR$/src/JR/Cats.java" />
-      <change beforePath="$PROJECT_DIR$/src/One/Five.java" afterPath="$PROJECT_DIR$/src/JR/Five.java" />
-      <change beforePath="$PROJECT_DIR$/src/One/Four.java" afterPath="$PROJECT_DIR$/src/JR/Four.java" />
-      <change beforePath="$PROJECT_DIR$/src/One/Interval.java" afterPath="$PROJECT_DIR$/src/JR/Interval.java" />
-      <change beforePath="$PROJECT_DIR$/src/One/NearestToTen.java" afterPath="$PROJECT_DIR$/src/JR/NearestToTen.java" />
-      <change beforePath="$PROJECT_DIR$/src/One/NegativeNumber.java" afterPath="$PROJECT_DIR$/src/JR/NegativeNumber.java" />
-      <change beforePath="$PROJECT_DIR$/src/One/One.java" afterPath="$PROJECT_DIR$/src/JR/One.java" />
-      <change beforePath="$PROJECT_DIR$/src/One/Season.java" afterPath="$PROJECT_DIR$/src/JR/Season.java" />
-      <change beforePath="$PROJECT_DIR$/src/One/Three.java" afterPath="$PROJECT_DIR$/src/JR/Three.java" />
-      <change beforePath="$PROJECT_DIR$/src/One/Two.java" afterPath="$PROJECT_DIR$/src/JR/Two.java" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/BonusWords.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/CheckForOrder.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/DictiomaryMap.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/ForTests/Main.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/ForTests/Test1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/JR/BelowFive.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/JR/Cats$Cat.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/JR/Cats.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/JR/Five.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/JR/Four.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/JR/Interval.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/JR/NearestToTen.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/JR/NegativeNumber.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/JR/One.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/JR/Season.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/JR/Three.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/JR/Two.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/JR/ZeroFour/CompareStr.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/JR/ZeroFour/DayWeek.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/JR/ZeroFour/MinOfNumbers.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/JR/ZeroFour/StopLight.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/JR/ZeroFour/Years.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/Krok/KrokEx$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/Krok/KrokEx.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/LabsKorolev/Lab2Threads/FirstThread.class" afterPath="$PROJECT_DIR$/out/production/Tasks/LabsKorolev/Lab2Threads/FirstThread.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/LabsKorolev/Lab2Threads/Main.class" afterPath="$PROJECT_DIR$/out/production/Tasks/LabsKorolev/Lab2Threads/Main.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/LabsKorolev/Lab2Threads/SecondThread.class" afterPath="$PROJECT_DIR$/out/production/Tasks/LabsKorolev/Lab2Threads/SecondThread.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/LabsKorolev/Lab3SwingAndJDBC/DAO/AbstrDAO.class" afterPath="$PROJECT_DIR$/out/production/Tasks/LabsKorolev/Lab3SwingAndJDBC/DAO/AbstrDAO.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/LabsKorolev/Lab3SwingAndJDBC/DAO/SotrDAO.class" afterPath="$PROJECT_DIR$/out/production/Tasks/LabsKorolev/Lab3SwingAndJDBC/DAO/SotrDAO.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/LabsKorolev/Lab3SwingAndJDBC/DAO/SpecDAO.class" afterPath="$PROJECT_DIR$/out/production/Tasks/LabsKorolev/Lab3SwingAndJDBC/DAO/SpecDAO.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/LabsKorolev/Lab3SwingAndJDBC/DAO/VusDAO.class" afterPath="$PROJECT_DIR$/out/production/Tasks/LabsKorolev/Lab3SwingAndJDBC/DAO/VusDAO.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/LabsKorolev/Lab3SwingAndJDBC/Entities/Sotr.class" afterPath="$PROJECT_DIR$/out/production/Tasks/LabsKorolev/Lab3SwingAndJDBC/Entities/Sotr.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/LabsKorolev/Lab3SwingAndJDBC/Entities/Spec.class" afterPath="$PROJECT_DIR$/out/production/Tasks/LabsKorolev/Lab3SwingAndJDBC/Entities/Spec.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/LabsKorolev/Lab3SwingAndJDBC/Entities/Vus.class" afterPath="$PROJECT_DIR$/out/production/Tasks/LabsKorolev/Lab3SwingAndJDBC/Entities/Vus.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/LabsKorolev/Lab3SwingAndJDBC/JDBCconnectService.class" afterPath="$PROJECT_DIR$/out/production/Tasks/LabsKorolev/Lab3SwingAndJDBC/JDBCconnectService.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/LabsKorolev/Lab3SwingAndJDBC/MainGUIWindow$1.class" afterPath="$PROJECT_DIR$/out/production/Tasks/LabsKorolev/Lab3SwingAndJDBC/MainGUIWindow$1.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/LabsKorolev/Lab3SwingAndJDBC/MainGUIWindow$2.class" afterPath="$PROJECT_DIR$/out/production/Tasks/LabsKorolev/Lab3SwingAndJDBC/MainGUIWindow$2.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/LabsKorolev/Lab3SwingAndJDBC/MainGUIWindow.class" afterPath="$PROJECT_DIR$/out/production/Tasks/LabsKorolev/Lab3SwingAndJDBC/MainGUIWindow.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/LabsKorolev/Lab3SwingAndJDBC/TableModels/SotrTableModel.class" afterPath="$PROJECT_DIR$/out/production/Tasks/LabsKorolev/Lab3SwingAndJDBC/TableModels/SotrTableModel.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/LabsKorolev/Lab3SwingAndJDBC/TableModels/SpecTableModel.class" afterPath="$PROJECT_DIR$/out/production/Tasks/LabsKorolev/Lab3SwingAndJDBC/TableModels/SpecTableModel.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/LabsKorolev/Lab3SwingAndJDBC/TableModels/VusTableModel.class" afterPath="$PROJECT_DIR$/out/production/Tasks/LabsKorolev/Lab3SwingAndJDBC/TableModels/VusTableModel.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/LoggerStackTrace.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/LongestSequence.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/SortingAndCollections/CollectionTest.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/SortingAndCollections/Main.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/SortingAndCollections/SortingMethod.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/BonusWords.java" afterPath="$PROJECT_DIR$/src/javaRush/BonusWords.java" />
+      <change beforePath="$PROJECT_DIR$/src/CheckForOrder.java" afterPath="$PROJECT_DIR$/src/javaRush/CheckForOrder.java" />
+      <change beforePath="$PROJECT_DIR$/src/DictiomaryMap.java" afterPath="$PROJECT_DIR$/src/javaRush/DictiomaryMap.java" />
+      <change beforePath="$PROJECT_DIR$/src/ForTests/Main.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/ForTests/Test1.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/JR/BelowFive.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/JR/Cats.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/JR/Five.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/JR/Four.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/JR/Interval.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/JR/NearestToTen.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/JR/NegativeNumber.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/JR/One.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/JR/Season.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/JR/Three.java" afterPath="$PROJECT_DIR$/src/javaRush/Three.java" />
+      <change beforePath="$PROJECT_DIR$/src/JR/Two.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/JR/ZeroFour/CompareStr.java" afterPath="$PROJECT_DIR$/src/javaRush/CompareStr.java" />
+      <change beforePath="$PROJECT_DIR$/src/JR/ZeroFour/DayWeek.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/JR/ZeroFour/MinOfNumbers.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/JR/ZeroFour/StopLight.java" afterPath="$PROJECT_DIR$/src/javaRush/StopLight.java" />
+      <change beforePath="$PROJECT_DIR$/src/JR/ZeroFour/Years.java" afterPath="$PROJECT_DIR$/src/javaRush/Years.java" />
+      <change beforePath="$PROJECT_DIR$/src/Krok/KrokEx.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/LabsKorolev/Lab2Threads/FirstThread.java" afterPath="$PROJECT_DIR$/src/labsKorolev/Lab2Threads/FirstThread.java" />
+      <change beforePath="$PROJECT_DIR$/src/LabsKorolev/Lab2Threads/Main.java" afterPath="$PROJECT_DIR$/src/labsKorolev/Lab2Threads/Main.java" />
+      <change beforePath="$PROJECT_DIR$/src/LabsKorolev/Lab2Threads/SecondThread.java" afterPath="$PROJECT_DIR$/src/labsKorolev/Lab2Threads/SecondThread.java" />
+      <change beforePath="$PROJECT_DIR$/src/LabsKorolev/Lab3SwingAndJDBC/DAO/AbstrDAO.java" afterPath="$PROJECT_DIR$/src/labsKorolev/Lab3SwingAndJDBC/DAO/AbstrDAO.java" />
+      <change beforePath="$PROJECT_DIR$/src/LabsKorolev/Lab3SwingAndJDBC/DAO/SotrDAO.java" afterPath="$PROJECT_DIR$/src/labsKorolev/Lab3SwingAndJDBC/DAO/SotrDAO.java" />
+      <change beforePath="$PROJECT_DIR$/src/LabsKorolev/Lab3SwingAndJDBC/DAO/SpecDAO.java" afterPath="$PROJECT_DIR$/src/labsKorolev/Lab3SwingAndJDBC/DAO/SpecDAO.java" />
+      <change beforePath="$PROJECT_DIR$/src/LabsKorolev/Lab3SwingAndJDBC/DAO/VusDAO.java" afterPath="$PROJECT_DIR$/src/labsKorolev/Lab3SwingAndJDBC/DAO/VusDAO.java" />
+      <change beforePath="$PROJECT_DIR$/src/LabsKorolev/Lab3SwingAndJDBC/Entities/Sotr.java" afterPath="$PROJECT_DIR$/src/labsKorolev/Lab3SwingAndJDBC/Entities/Sotr.java" />
+      <change beforePath="$PROJECT_DIR$/src/LabsKorolev/Lab3SwingAndJDBC/Entities/Spec.java" afterPath="$PROJECT_DIR$/src/labsKorolev/Lab3SwingAndJDBC/Entities/Spec.java" />
+      <change beforePath="$PROJECT_DIR$/src/LabsKorolev/Lab3SwingAndJDBC/Entities/Vus.java" afterPath="$PROJECT_DIR$/src/labsKorolev/Lab3SwingAndJDBC/Entities/Vus.java" />
+      <change beforePath="$PROJECT_DIR$/src/LabsKorolev/Lab3SwingAndJDBC/JDBCconnectService.java" afterPath="$PROJECT_DIR$/src/labsKorolev/Lab3SwingAndJDBC/JDBCconnectService.java" />
+      <change beforePath="$PROJECT_DIR$/src/LabsKorolev/Lab3SwingAndJDBC/MainGUIWindow.form" afterPath="$PROJECT_DIR$/src/labsKorolev/Lab3SwingAndJDBC/MainGUIWindow.form" />
+      <change beforePath="$PROJECT_DIR$/src/LabsKorolev/Lab3SwingAndJDBC/MainGUIWindow.java" afterPath="$PROJECT_DIR$/src/labsKorolev/Lab3SwingAndJDBC/MainGUIWindow.java" />
+      <change beforePath="$PROJECT_DIR$/src/LabsKorolev/Lab3SwingAndJDBC/TableModels/SotrTableModel.java" afterPath="$PROJECT_DIR$/src/labsKorolev/Lab3SwingAndJDBC/TableModels/SotrTableModel.java" />
+      <change beforePath="$PROJECT_DIR$/src/LabsKorolev/Lab3SwingAndJDBC/TableModels/SpecTableModel.java" afterPath="$PROJECT_DIR$/src/labsKorolev/Lab3SwingAndJDBC/TableModels/SpecTableModel.java" />
+      <change beforePath="$PROJECT_DIR$/src/LabsKorolev/Lab3SwingAndJDBC/TableModels/VusTableModel.java" afterPath="$PROJECT_DIR$/src/labsKorolev/Lab3SwingAndJDBC/TableModels/VusTableModel.java" />
+      <change beforePath="$PROJECT_DIR$/src/LoggerStackTrace.java" afterPath="$PROJECT_DIR$/src/javaRush/LoggerStackTrace.java" />
+      <change beforePath="$PROJECT_DIR$/src/LongestSequence.java" afterPath="$PROJECT_DIR$/src/javaRush/LongestSequence.java" />
+      <change beforePath="$PROJECT_DIR$/src/SortingAndCollections/CollectionTest.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/SortingAndCollections/Main.java" afterPath="$PROJECT_DIR$/src/sorting/Main.java" />
+      <change beforePath="$PROJECT_DIR$/src/SortingAndCollections/SortingMethod.java" afterPath="$PROJECT_DIR$/src/sorting/SortingMethod.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -42,119 +105,67 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/Tasks$Unnamed.coverage" NAME="Unnamed Coverage Results" MODIFIED="1527259340258" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="JavaTasks" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MainGUIWindow.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/LabsKorolev/Lab3SwingAndJDBC/MainGUIWindow.java">
+      <file leaf-file-name="Words.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Words.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="283">
-              <caret line="21" column="26" lean-forward="false" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#8885#8886#0" expanded="true" />
-                <element signature="e#8917#8918#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SpecTableModel.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/LabsKorolev/Lab3SwingAndJDBC/TableModels/SpecTableModel.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="691">
-              <caret line="53" column="5" lean-forward="false" selection-start-line="53" selection-start-column="5" selection-end-line="53" selection-end-column="5" />
+            <state relative-caret-position="0">
+              <caret line="0" column="26" lean-forward="true" selection-start-line="0" selection-start-column="26" selection-end-line="0" selection-end-column="26" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Sotr.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/LabsKorolev/Lab3SwingAndJDBC/Entities/Sotr.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="578">
-              <caret line="67" column="35" lean-forward="false" selection-start-line="67" selection-start-column="35" selection-end-line="67" selection-end-column="35" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AbstrDAO.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/LabsKorolev/Lab3SwingAndJDBC/DAO/AbstrDAO.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="27" column="10" lean-forward="false" selection-start-line="27" selection-start-column="10" selection-end-line="27" selection-end-column="10" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="VusTableModel.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/LabsKorolev/Lab3SwingAndJDBC/TableModels/VusTableModel.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="578">
-              <caret line="46" column="28" lean-forward="false" selection-start-line="46" selection-start-column="28" selection-end-line="46" selection-end-column="28" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SotrDAO.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/LabsKorolev/Lab3SwingAndJDBC/DAO/SotrDAO.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="31" column="5" lean-forward="false" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
-              <folding>
-                <marker date="1532351132051" expanded="true" signature="622:640" ph="select * fro... Sotrs" />
-                <marker date="1532351132051" expanded="true" signature="1180:1214" ph="select * fro... Sotrs" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="VusDAO.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/LabsKorolev/Lab3SwingAndJDBC/DAO/VusDAO.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="27" column="5" lean-forward="false" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
-              <folding>
-                <marker date="1532276614521" expanded="true" signature="455:472" ph="select * fro... Vuss" />
-              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="JDBCconnectService.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/LabsKorolev/Lab3SwingAndJDBC/JDBCconnectService.java">
+        <entry file="file://$PROJECT_DIR$/src/labsKorolev/Lab3SwingAndJDBC/JDBCconnectService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+            <state relative-caret-position="136">
+              <caret line="8" column="39" lean-forward="false" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SpecDAO.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/LabsKorolev/Lab3SwingAndJDBC/DAO/SpecDAO.java">
+      <file leaf-file-name="FirstThread.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/labsKorolev/Lab2Threads/FirstThread.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <marker date="1532351132033" expanded="true" signature="490:508" ph="select * fro... Specs" />
-              </folding>
+            <state relative-caret-position="17">
+              <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SotrTableModel.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/LabsKorolev/Lab3SwingAndJDBC/TableModels/SotrTableModel.java">
+      <file leaf-file-name="MainGUIWindow.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/labsKorolev/Lab3SwingAndJDBC/MainGUIWindow.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="731">
-              <caret line="54" column="0" lean-forward="false" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
-              <folding>
-                <element signature="e#808#809#0" expanded="true" />
-                <element signature="e#847#848#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="340">
+              <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BonusWords.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/javaRush/BonusWords.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Tasks.iml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Tasks.iml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -200,23 +211,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/00_00_01.java.java" />
-        <option value="$PROJECT_DIR$/src/One/00_00_02.java.java" />
-        <option value="$PROJECT_DIR$/src/One/00_00_01.java.java" />
-        <option value="$PROJECT_DIR$/src/One/Two.java" />
-        <option value="$PROJECT_DIR$/src/One/Three.java" />
-        <option value="$PROJECT_DIR$/src/One/Four.java" />
-        <option value="$PROJECT_DIR$/src/One/One.java" />
-        <option value="$PROJECT_DIR$/src/One/Five.java" />
-        <option value="$PROJECT_DIR$/src/ForTests/Test1.java" />
-        <option value="$PROJECT_DIR$/src/Sorting/SortingMethod.java" />
-        <option value="$PROJECT_DIR$/src/Main.java" />
-        <option value="$PROJECT_DIR$/src/SortingAndCollections/SortingMethod.java" />
-        <option value="$PROJECT_DIR$/src/SortingAndCollections/Main.java" />
-        <option value="$PROJECT_DIR$/src/SortingAndCollections/CollectionTest.java" />
-        <option value="$PROJECT_DIR$/src/One/Cats.java" />
-        <option value="$PROJECT_DIR$/src/One/BelowFive.java" />
-        <option value="$PROJECT_DIR$/src/One/NearestToTen.java" />
         <option value="$PROJECT_DIR$/src/One/Interval.java" />
         <option value="$PROJECT_DIR$/src/One/Season.java" />
         <option value="$PROJECT_DIR$/src/One/NegativeNumber.java" />
@@ -229,7 +223,6 @@
         <option value="$PROJECT_DIR$/src/LabsKorolev/srf/Lab2Threads/Lab2Thread/SecondThread.java" />
         <option value="$PROJECT_DIR$/src/LabsKorolev/srf/Lab2Threads/SecondThread.java" />
         <option value="$PROJECT_DIR$/src/LabsKorolev/srf/Lab2Threads/Main.java" />
-        <option value="$PROJECT_DIR$/src/ForTests/Main.java" />
         <option value="$PROJECT_DIR$/src/LabsKorolev/Lab2Threads/FirstThread.java" />
         <option value="$PROJECT_DIR$/src/LabsKorolev/Lab2Threads/Main.java" />
         <option value="$PROJECT_DIR$/src/LabsKorolev/FirstThread.java" />
@@ -249,8 +242,26 @@
         <option value="$PROJECT_DIR$/src/LabsKorolev/Lab3SwingAndJDBC/MainGUIWindow.java" />
         <option value="$PROJECT_DIR$/src/LabsKorolev/Lab3SwingAndJDBC/JDBCconnectService.java" />
         <option value="$PROJECT_DIR$/src/LabsKorolev/Lab3SwingAndJDBC/TableModels/SpecTableModel.java" />
-        <option value="$PROJECT_DIR$/src/LabsKorolev/Lab3SwingAndJDBC/DAO/SotrDAO.java" />
         <option value="$PROJECT_DIR$/src/LabsKorolev/Lab3SwingAndJDBC/DAO/SpecDAO.java" />
+        <option value="$PROJECT_DIR$/src/LabsKorolev/Lab3SwingAndJDBC/DAO/SotrDAO.java" />
+        <option value="$PROJECT_DIR$/src/LabsKorolev/Lab4Servlets/Lab4Serltet.java" />
+        <option value="$PROJECT_DIR$/src/LabsKorolev/Lab4Servlets/Login.java" />
+        <option value="$PROJECT_DIR$/src/LabsKorolev/Lab4Servlets/StartPage.java" />
+        <option value="$PROJECT_DIR$/src/SortingAndCollections/Sorting/SortingMethod.java" />
+        <option value="$PROJECT_DIR$/src/SortingAndCollections/Sorting/Main.java" />
+        <option value="$PROJECT_DIR$/src/SortingAndCollections/List/ArrayLst.java" />
+        <option value="$PROJECT_DIR$/src/SortingAndCollections/List/Main.java" />
+        <option value="$PROJECT_DIR$/src/ForTests/Test1.java" />
+        <option value="$PROJECT_DIR$/src/ForTests/ew/Test1.java" />
+        <option value="$PROJECT_DIR$/src/ForTests/App.java" />
+        <option value="$PROJECT_DIR$/src/ForTests/Palindrom.java" />
+        <option value="$PROJECT_DIR$/src/ForTests/Main.java" />
+        <option value="$PROJECT_DIR$/src/JR/BonusWords.java" />
+        <option value="$PROJECT_DIR$/src/JR/NegativeNumber.java" />
+        <option value="$PROJECT_DIR$/src/JR/Years.java" />
+        <option value="$PROJECT_DIR$/src/JR/Cats.java" />
+        <option value="$PROJECT_DIR$/src/JR/DayWeek.java" />
+        <option value="$PROJECT_DIR$/src/someTask/Palindrom.java" />
       </list>
     </option>
   </component>
@@ -260,15 +271,22 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="627" />
-    <option name="y" value="135" />
-    <option name="width" value="1182" />
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-20" />
+    <option name="y" value="149" />
+    <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages />
+      <flattenPackages ProjectPane="false" />
       <showMembers />
       <showModules />
       <showLibraryContents />
@@ -282,6 +300,18 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="JavaTasks" type="58d84e3e:PackageViewProjectNode" />
+              <item name="Tasks" type="616d4139:PackageViewModuleNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -289,75 +319,17 @@
               <item name="JavaTasks" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaTasks" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="JavaTasks" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaTasks" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaTasks" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaTasks" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ForTests" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaTasks" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaTasks" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="LabsKorolev" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaTasks" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaTasks" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="LabsKorolev" type="462c0819:PsiDirectoryNode" />
-              <item name="Lab3SwingAndJDBC" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaTasks" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaTasks" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="LabsKorolev" type="462c0819:PsiDirectoryNode" />
-              <item name="Lab3SwingAndJDBC" type="462c0819:PsiDirectoryNode" />
-              <item name="DAO" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaTasks" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaTasks" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="LabsKorolev" type="462c0819:PsiDirectoryNode" />
-              <item name="Lab3SwingAndJDBC" type="462c0819:PsiDirectoryNode" />
-              <item name="Entities" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaTasks" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaTasks" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="LabsKorolev" type="462c0819:PsiDirectoryNode" />
-              <item name="Lab3SwingAndJDBC" type="462c0819:PsiDirectoryNode" />
-              <item name="TableModels" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaTasks" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaTasks" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="LabsKorolev" type="462c0819:PsiDirectoryNode" />
-              <item name="Lab3SwingAndJDBC" type="462c0819:PsiDirectoryNode" />
-              <item name="MainGUIWindow" type="e9f4de52:FormNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="project.propGUI" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="project.structure.last.edited" value="Facets" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.14137931" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -394,14 +366,14 @@
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
     </configuration>
-    <configuration name="CompareStr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="BonusWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="JR.ZeroFour.*" />
+          <option name="PATTERN" value="javaRush.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="JR.ZeroFour.CompareStr" />
+      <option name="MAIN_CLASS_NAME" value="javaRush.BonusWords" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
@@ -413,14 +385,14 @@
       <module name="Tasks" />
       <envs />
     </configuration>
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="DictiomaryMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="LabsKorolev.Lab2Threads.*" />
+          <option name="PATTERN" value="javaRush.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="LabsKorolev.Lab2Threads.Main" />
+      <option name="MAIN_CLASS_NAME" value="javaRush.DictiomaryMap" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
@@ -435,7 +407,7 @@
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="ForTests.*" />
+          <option name="PATTERN" value="ForTests.ew.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -454,11 +426,11 @@
     <configuration name="MainGUIWindow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="LabsKorolev.Lab3SwingAndJDBC.*" />
+          <option name="PATTERN" value="labsKorolev.Lab3SwingAndJDBC.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="LabsKorolev.Lab3SwingAndJDBC.MainGUIWindow" />
+      <option name="MAIN_CLASS_NAME" value="labsKorolev.Lab3SwingAndJDBC.MainGUIWindow" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
@@ -470,14 +442,33 @@
       <module name="Tasks" />
       <envs />
     </configuration>
-    <configuration name="MainWindowDialog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="LabsKorolev.Lab3SwingAndJDBC.*" />
+          <option name="PATTERN" value="sorting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="LabsKorolev.Lab3SwingAndJDBC.MainWindowDialog" />
+      <option name="MAIN_CLASS_NAME" value="sorting.Main" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Tasks" />
+      <envs />
+    </configuration>
+    <configuration name="Palindrom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="someTask.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="someTask.Palindrom" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
@@ -491,7 +482,7 @@
     </configuration>
     <configuration name="Unnamed" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="CheckForOrder" />
+      <option name="MAIN_CLASS_NAME" value="javaRush.CheckForOrder" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
@@ -571,27 +562,97 @@
       <properties />
       <listeners />
     </configuration>
+    <configuration name="Unnamed" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.0.M15" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="1.8">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8082/" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <file path="$PROJECT_DIR$/../Сетевое программирование/lab 4_5(java)/JavaServlet">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </file>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_JavaTasks" />
+        <option name="HTTP_PORT" value="8082" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="50291" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+    </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
       <option name="PROGRAM_PARAMETERS" />
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
-    <list size="6">
+    <list size="7">
       <item index="0" class="java.lang.String" itemvalue="Application.Unnamed" />
-      <item index="1" class="java.lang.String" itemvalue="Application.CompareStr" />
+      <item index="1" class="java.lang.String" itemvalue="Tomcat Server.Unnamed" />
       <item index="2" class="java.lang.String" itemvalue="Application.Main" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Main (1)" />
-      <item index="4" class="java.lang.String" itemvalue="Application.MainWindowDialog" />
-      <item index="5" class="java.lang.String" itemvalue="Application.MainGUIWindow" />
+      <item index="3" class="java.lang.String" itemvalue="Application.BonusWords" />
+      <item index="4" class="java.lang.String" itemvalue="Application.DictiomaryMap" />
+      <item index="5" class="java.lang.String" itemvalue="Application.Palindrom" />
+      <item index="6" class="java.lang.String" itemvalue="Application.MainGUIWindow" />
     </list>
     <recent_temporary>
       <list size="5">
         <item index="0" class="java.lang.String" itemvalue="Application.MainGUIWindow" />
-        <item index="1" class="java.lang.String" itemvalue="Application.MainWindowDialog" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Main (1)" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Main" />
-        <item index="4" class="java.lang.String" itemvalue="Application.CompareStr" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Palindrom" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Main" />
+        <item index="3" class="java.lang.String" itemvalue="Application.DictiomaryMap" />
+        <item index="4" class="java.lang.String" itemvalue="Application.BonusWords" />
       </list>
     </recent_temporary>
   </component>
@@ -636,376 +697,357 @@
       <workItem from="1532084728300" duration="18781000" />
       <workItem from="1532180962960" duration="15960000" />
       <workItem from="1532252809101" duration="23123000" />
-      <workItem from="1532347325735" duration="849000" />
+      <workItem from="1532347325735" duration="6035000" />
+      <workItem from="1532365636832" duration="651000" />
+      <workItem from="1532422764174" duration="666000" />
+      <workItem from="1532514912297" duration="2264000" />
+      <workItem from="1532548691534" duration="1495000" />
+      <workItem from="1533477936840" duration="3451000" />
+      <workItem from="1533481495267" duration="209000" />
+      <workItem from="1533481957321" duration="3124000" />
+      <workItem from="1533750473933" duration="33000" />
+      <workItem from="1533750530227" duration="1323000" />
+      <workItem from="1533808645993" duration="371000" />
+      <workItem from="1533839059791" duration="768000" />
+      <workItem from="1534262905947" duration="1244000" />
+      <workItem from="1534325394298" duration="873000" />
+      <workItem from="1534413942622" duration="7356000" />
+      <workItem from="1535817367645" duration="464000" />
+      <workItem from="1536076264458" duration="1747000" />
+      <workItem from="1536078037316" duration="1364000" />
+      <workItem from="1536080168135" duration="1785000" />
+      <workItem from="1536081987949" duration="493000" />
+      <workItem from="1536157230123" duration="20000" />
+      <workItem from="1536158663436" duration="5000" />
+      <workItem from="1536161349546" duration="1656000" />
+      <workItem from="1536163032290" duration="274000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="140539000" />
+    <option name="totallyTimeSpent" value="177361000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22391304" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32979852" sideWeight="0.50208336" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32979852" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2195122" sideWeight="0.49791667" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32979852" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2173913" sideWeight="0.49791667" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13854167" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27132195" sideWeight="0.55543476" order="6" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27132195" sideWeight="0.4445652" order="5" side_tool="true" content_ui="tabs" x="226" y="521" width="469" height="920" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39554614" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.25" sideWeight="0.3097826" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39456522" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22481441" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296875" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32976446" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="59" />
+      <option name="time" value="67" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/io/InputStreamReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="193">
-          <caret line="70" column="11" lean-forward="false" selection-start-line="70" selection-start-column="11" selection-end-line="70" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JR/Season.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="32" column="1" lean-forward="true" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JR/BelowFive.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="26" column="1" lean-forward="true" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JR/Cats.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="12" column="20" lean-forward="false" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JR/Five.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JR/NearestToTen.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="5" lean-forward="false" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JR/Interval.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="26" column="1" lean-forward="false" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JR/NegativeNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="31" lean-forward="false" selection-start-line="12" selection-start-column="8" selection-end-line="22" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JR/ZeroFour/Years.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="44" lean-forward="false" selection-start-line="17" selection-start-column="8" selection-end-line="28" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JR/ZeroFour/MinOfNumbers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="9" lean-forward="false" selection-start-line="12" selection-start-column="8" selection-end-line="24" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JR/ZeroFour/DayWeek.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="23" column="10" lean-forward="false" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JR/ZeroFour/StopLight.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="36" column="0" lean-forward="false" selection-start-line="24" selection-start-column="8" selection-end-line="36" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JR/ZeroFour/CompareStr.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="9" lean-forward="false" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LabsKorolev/srf/wf.java" />
-    <entry file="file://$PROJECT_DIR$/src/ForTests/Test1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="11" column="21" lean-forward="false" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ForTests/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="24" column="5" lean-forward="false" selection-start-line="24" selection-start-column="5" selection-end-line="25" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/io/BufferedWriter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-51">
-          <caret line="86" column="11" lean-forward="false" selection-start-line="86" selection-start-column="11" selection-end-line="86" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/io/FileWriter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1394">
-          <caret line="105" column="11" lean-forward="false" selection-start-line="105" selection-start-column="11" selection-end-line="105" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LabsKorolev/Lab2Threads/FirstThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LabsKorolev/Lab2Threads/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="13" lean-forward="false" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LabsKorolev/Lab2Threads/SecondThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LabsKorolev/Lab3SwingAndJDBC/Kek.java" />
-    <entry file="file://$PROJECT_DIR$/src/LabsKorolev/Lab3SwingAndJDBC/Kek.form" />
-    <entry file="file://$PROJECT_DIR$/src/LabsKorolev/Lab3SwingAndJDBC/Main.java" />
-    <entry file="file://$PROJECT_DIR$/src/LabsKorolev/Lab3SwingAndJDBC/MainWindowDialog.form" />
-    <entry file="file://$PROJECT_DIR$/src/LabsKorolev/Lab3SwingAndJDBC/MainWindowDialog.java" />
-    <entry file="file://$PROJECT_DIR$/src/LabsKorolev/Lab3SwingAndJDBC/DAO/InterfaceDAOSpec.java" />
-    <entry file="file://$PROJECT_DIR$/src/LabsKorolev/Lab3SwingAndJDBC/DAO/InterfaceDAOSotr.java" />
-    <entry file="file://$PROJECT_DIR$/src/LabsKorolev/Lab3SwingAndJDBC/DAO/ImlDAOVus.java" />
-    <entry file="file://$PROJECT_DIR$/src/LabsKorolev/Lab3SwingAndJDBC/DAO/ImlDAOSpec.java" />
-    <entry file="file://$PROJECT_DIR$/src/LabsKorolev/Lab3SwingAndJDBC/DAO/ImlDAOSotr.java" />
-    <entry file="file://$PROJECT_DIR$/src/LabsKorolev/Lab3SwingAndJDBC/DAO/InterfaceDAO.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/Arrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="237">
-          <caret line="4138" column="22" lean-forward="false" selection-start-line="4138" selection-start-column="22" selection-end-line="4138" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/io/File.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1005" column="19" lean-forward="false" selection-start-line="1005" selection-start-column="19" selection-end-line="1005" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/Objects.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="254">
-          <caret line="127" column="25" lean-forward="false" selection-start-line="127" selection-start-column="25" selection-end-line="127" selection-end-column="25" />
-          <folding>
-            <element signature="e#3914#3915#0" expanded="false" />
-            <element signature="e#3960#3961#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/javax/swing/table/AbstractTableModel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="237">
-          <caret line="59" column="55" lean-forward="false" selection-start-line="59" selection-start-column="55" selection-end-line="59" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/javax/swing/table/TableModel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="8">
-          <caret line="49" column="17" lean-forward="false" selection-start-line="49" selection-start-column="17" selection-end-line="49" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/List.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4266">
-          <caret line="543" column="6" lean-forward="false" selection-start-line="543" selection-start-column="6" selection-end-line="543" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LabsKorolev/Lab3SwingAndJDBC/MainGUIWindow.form">
-      <provider selected="true" editor-type-id="ui-designer">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LabsKorolev/Lab3SwingAndJDBC/Entities/Vus.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LabsKorolev/Lab3SwingAndJDBC/Entities/Spec.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="16" lean-forward="false" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LabsKorolev/Lab3SwingAndJDBC/TableModels/SotrTableModel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="731">
-          <caret line="54" column="0" lean-forward="false" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
-          <folding>
-            <element signature="e#808#809#0" expanded="true" />
-            <element signature="e#847#848#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LabsKorolev/Lab3SwingAndJDBC/MainGUIWindow.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="283">
-          <caret line="21" column="26" lean-forward="false" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#8885#8886#0" expanded="true" />
-            <element signature="e#8917#8918#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LabsKorolev/Lab3SwingAndJDBC/JDBCconnectService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LabsKorolev/Lab3SwingAndJDBC/TableModels/VusTableModel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="46" column="28" lean-forward="false" selection-start-line="46" selection-start-column="28" selection-end-line="46" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LabsKorolev/Lab3SwingAndJDBC/TableModels/SpecTableModel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="691">
-          <caret line="53" column="5" lean-forward="false" selection-start-line="53" selection-start-column="5" selection-end-line="53" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LabsKorolev/Lab3SwingAndJDBC/Entities/Sotr.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="67" column="35" lean-forward="false" selection-start-line="67" selection-start-column="35" selection-end-line="67" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LabsKorolev/Lab3SwingAndJDBC/DAO/SotrDAO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="31" column="5" lean-forward="false" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
-          <folding>
-            <marker date="1532351132051" expanded="true" signature="622:640" ph="select * fro... Sotrs" />
-            <marker date="1532351132051" expanded="true" signature="1180:1214" ph="select * fro... Sotrs" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LabsKorolev/Lab3SwingAndJDBC/DAO/AbstrDAO.java">
+    <entry file="file://$PROJECT_DIR$/src/labsKorolev/Lab3SwingAndJDBC/DAO/AbstrDAO.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="27" column="10" lean-forward="false" selection-start-line="27" selection-start-column="10" selection-end-line="27" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/labsKorolev/Lab3SwingAndJDBC/DAO/SotrDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="14" column="10" lean-forward="false" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/labsKorolev/Lab3SwingAndJDBC/DAO/SpecDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/labsKorolev/Lab3SwingAndJDBC/DAO/VusDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="27" column="5" lean-forward="false" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/labsKorolev/Lab3SwingAndJDBC/TableModels/SotrTableModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="731">
+          <caret line="54" column="0" lean-forward="false" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/labsKorolev/Lab3SwingAndJDBC/TableModels/SpecTableModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="53" column="5" lean-forward="false" selection-start-line="53" selection-start-column="5" selection-end-line="53" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/labsKorolev/Lab3SwingAndJDBC/TableModels/VusTableModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="46" column="28" lean-forward="false" selection-start-line="46" selection-start-column="28" selection-end-line="46" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ForTests/ew/Test1.java" />
+    <entry file="file://$PROJECT_DIR$/src/Krok/KrokEx.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/io/PrintStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10098">
+          <caret line="638" column="25" lean-forward="false" selection-start-line="638" selection-start-column="25" selection-end-line="638" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/io/FileInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3145">
+          <caret line="209" column="23" lean-forward="false" selection-start-line="209" selection-start-column="23" selection-end-line="209" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/System.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="82" column="36" lean-forward="false" selection-start-line="82" selection-start-column="36" selection-end-line="82" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/io/InputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="64" column="24" lean-forward="false" selection-start-line="64" selection-start-column="24" selection-end-line="64" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="1464" column="15" lean-forward="false" selection-start-line="1464" selection-start-column="15" selection-end-line="1464" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="100" column="0" lean-forward="true" selection-start-line="100" selection-start-column="0" selection-end-line="100" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JR/Two.java" />
+    <entry file="file://$PROJECT_DIR$/src/JR/One.java" />
+    <entry file="file://$PROJECT_DIR$/src/JR/NegativeNumber.java" />
+    <entry file="file://$PROJECT_DIR$/src/JR/BelowFive.java" />
+    <entry file="file://$PROJECT_DIR$/src/JR/Cats.java" />
+    <entry file="file://$PROJECT_DIR$/src/javaRush/CheckForOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="31" column="5" lean-forward="false" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JR/DayWeek.java" />
+    <entry file="file://$PROJECT_DIR$/src/JR/Five.java" />
+    <entry file="file://$PROJECT_DIR$/src/JR/Four.java" />
+    <entry file="file://$PROJECT_DIR$/src/JR/Interval.java" />
+    <entry file="file://$PROJECT_DIR$/src/javaRush/CompareStr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaRush/DictiomaryMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="402">
+          <caret line="25" column="70" lean-forward="false" selection-start-line="25" selection-start-column="70" selection-end-line="25" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaRush/LoggerStackTrace.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JR/NearestToTen.java" />
+    <entry file="file://$PROJECT_DIR$/src/JR/Season.java" />
+    <entry file="file://$PROJECT_DIR$/src/JR/MinOfNumbers.java" />
+    <entry file="file://$PROJECT_DIR$/src/javaRush/LongestSequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="28" column="81" lean-forward="false" selection-start-line="28" selection-start-column="81" selection-end-line="28" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaRush/StopLight.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" column="41" lean-forward="false" selection-start-line="35" selection-start-column="41" selection-end-line="35" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaRush/Three.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaRush/Years.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ForTests/App.java" />
+    <entry file="file://$PROJECT_DIR$/src/ForTests/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/sorting/SortingMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sorting/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/someTask/Palindrom.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="21" column="1" lean-forward="false" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/workWithCollections/List/ArrayLst.java" />
+    <entry file="file://$PROJECT_DIR$/src/workWithCollections/List/LinkedLst.java" />
+    <entry file="file://$PROJECT_DIR$/src/workWithCollections/List/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/labsKorolev/Lab2Threads/SecondThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/LabsKorolev/Lab3SwingAndJDBC/DAO/SpecDAO.java">
+    <entry file="file://$PROJECT_DIR$/src/labsKorolev/Lab2Threads/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="476">
-          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <marker date="1532351132033" expanded="true" signature="490:508" ph="select * fro... Specs" />
-          </folding>
+          <caret line="28" column="13" lean-forward="false" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/LabsKorolev/Lab3SwingAndJDBC/DAO/VusDAO.java">
+    <entry file="file://$PROJECT_DIR$/Tasks.iml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="27" column="5" lean-forward="false" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
-          <folding>
-            <marker date="1532276614521" expanded="true" signature="455:472" ph="select * fro... Vuss" />
-          </folding>
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Words.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="26" lean-forward="true" selection-start-line="0" selection-start-column="26" selection-end-line="0" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/labsKorolev/Lab3SwingAndJDBC/JDBCconnectService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="39" lean-forward="false" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/labsKorolev/Lab3SwingAndJDBC/MainGUIWindow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaRush/BonusWords.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/labsKorolev/Lab2Threads/FirstThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1077,7 +1119,6 @@
             <option name="proportions">
               <list>
                 <option value="0.14137931" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
