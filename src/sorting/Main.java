@@ -1,55 +1,80 @@
 package sorting;
 
 import java.util.*;
+import java.util.stream.Collectors;
 
 
 public class Main {
 
-    private static int[] array1={4,1,7,5,8,3};
 
     public static void main(String args[]) {
 
-        //SortingMethod.bubbleSort(SortingMethod.makeArray());
-        SortingMethod.quickSort(array1,0,array1.length-1);
-        System.out.println(Arrays.toString(array1));
+    List <Integer> linkdLst = new LinkedList();
+    ArrayList <Integer> arrayList = new ArrayList();
 
-/*        CollectionTest test2 = new CollectionTest(1, 5);
-        System.out.println(test1 == test2);
-        System.out.println(test1.equals(test2));
 
-      ArrayList <Integer> list1= new ArrayList <Integer> (Arrays.asList(array1));
-      ArrayList <Integer> list2= new ArrayList <Integer> (Arrays.asList(array2));
-      merge1(list1, list2);*/
+//      int myarr [] = {4,3,8,1,2};
+//        System.out.println(Arrays.toString(SortingMethod.selectionSortInt(myarr)));
+
+
+//        List arr = createListWithInt();
+//        System.out.println(arr);
+//    /*Внешний цикл каждый раз сокращает фрагмент массива,
+//      так как внутренний цикл каждый раз ставит в конец
+//      фрагмента максимальный элемент*/
+//            for (int i = arr.size() - 1; i > 0; i--) {
+//                for (int j = 0; j < i; j++) {
+//            /*Сравниваем элементы попарно,
+//              если они имеют неправильный порядок,
+//              то меняем местами*/
+//                    if ((int)arr.get(j) < (int)arr.get(j+1)) {
+//                        int tmp = (int)arr.get(j);
+//                        arr.set(j, (int)arr.get(j+1));
+//                        arr.set(j+1, tmp);
+//                    }
+//                }
+//            }
+//            System.out.println(arr);
 
     }
 
 
-    public static void merge1(ArrayList<Integer> a, ArrayList<Integer> b) {
+    public static Integer [] sortArr (Integer [] arr){
+        for (int i=0;i<arr.length;i++){
+            for (int j=i;j<arr.length-1;j++){
+                if (arr[i]>arr[j+1]){
+                    int tmp = arr [i];
+                    arr [i] = arr [j+1];
+                    arr [j+1] = tmp;
+                }
+            }
+        }
+        return arr;
+    }
 
+    public static List createListWithInt (){
+        List arrList = new ArrayList(Arrays.asList(3,1,4,8,5,2));
+        return arrList;
+    }
+
+    public static void merge1(ArrayList<Integer> a, ArrayList<Integer> b) {
         int size = b.size();
-        a.ensureCapacity(size*2);
-        for (int i=0; i<size; i++){
+        a.ensureCapacity(size * 2);
+        for (int i = 0; i < size; i++) {
             a.add(null);
         }
-
-        for (int i=b.size(); i>0; i--){
-            a.set((i<<1)-1,b.get(i-1));
-            a.set((i<<1)-2,a.get(i-1));
+        for (int i = b.size(); i > 0; i--) {
+            a.set((i << 1) - 1, b.get(i - 1));
+            a.set((i << 1) - 2, a.get(i - 1));
         }
-
-    /*    for (ArrayList fio:a.size()){
-            System.out.println(fio);
-        }*/
-
         Iterator<Integer> iter = a.iterator();
         while (iter.hasNext()) {
             System.out.println(iter.next());
         }
-
-        for(int i=0; i<a.size();i++){
+        for (int i = 0; i < a.size(); i++) {
             System.out.println(Integer.toString(a.get(i)));
         }
-
     }
+
 
 }

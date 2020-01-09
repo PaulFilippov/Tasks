@@ -3,6 +3,7 @@ package javaRush;
 public class LoggerStackTrace {
 
     public static void main(String[] args) {
+
         log("In main method");
     }
 

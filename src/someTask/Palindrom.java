@@ -2,6 +2,13 @@ package someTask;
 
 
 public class Palindrom {
+
+
+    public static void main(String[] args) {
+        System.out.println(recursion("ABAABA"));
+    }
+
+
     public static String recursion(String s) {
         if (s.length() == 1) {
             return "YES";
@@ -16,7 +23,5 @@ public class Palindrom {
             }
         }
     }
-    public static void main(String[] args) {
-        System.out.println(recursion("ABAABA"));
-    }
+
 }
