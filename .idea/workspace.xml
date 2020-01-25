@@ -2,41 +2,50 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4b92d9c5-e7e8-4b31-9634-2cc38d6cf19f" name="Default" comment="enter to IT">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sorting/bubble/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tests/Interf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tests/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tests/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.txt" beforeDir="false" afterPath="$PROJECT_DIR$/README.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tasks.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/LabsKorolev/Lab2Threads/FirstThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/LabsKorolev/Lab2Threads/FirstThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/LabsKorolev/Lab2Threads/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/LabsKorolev/Lab2Threads/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/LabsKorolev/Lab2Threads/SecondThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/LabsKorolev/Lab2Threads/SecondThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/LabsKorolev/Lab3SwingAndJDBC/DAO/AbstrDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/LabsKorolev/Lab3SwingAndJDBC/DAO/AbstrDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/LabsKorolev/Lab3SwingAndJDBC/DAO/SotrDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/LabsKorolev/Lab3SwingAndJDBC/DAO/SotrDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/LabsKorolev/Lab3SwingAndJDBC/DAO/SpecDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/LabsKorolev/Lab3SwingAndJDBC/DAO/SpecDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/LabsKorolev/Lab3SwingAndJDBC/DAO/VusDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/LabsKorolev/Lab3SwingAndJDBC/DAO/VusDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/LabsKorolev/Lab3SwingAndJDBC/Entities/Sotr.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/LabsKorolev/Lab3SwingAndJDBC/Entities/Sotr.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/LabsKorolev/Lab3SwingAndJDBC/Entities/Spec.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/LabsKorolev/Lab3SwingAndJDBC/Entities/Spec.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/LabsKorolev/Lab3SwingAndJDBC/Entities/Vus.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/LabsKorolev/Lab3SwingAndJDBC/Entities/Vus.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/LabsKorolev/Lab3SwingAndJDBC/JDBCconnectService.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/LabsKorolev/Lab3SwingAndJDBC/JDBCconnectService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/LabsKorolev/Lab3SwingAndJDBC/MainGUIWindow$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/LabsKorolev/Lab3SwingAndJDBC/MainGUIWindow$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/LabsKorolev/Lab3SwingAndJDBC/MainGUIWindow$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/LabsKorolev/Lab3SwingAndJDBC/MainGUIWindow$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/LabsKorolev/Lab3SwingAndJDBC/MainGUIWindow.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/LabsKorolev/Lab3SwingAndJDBC/MainGUIWindow.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/LabsKorolev/Lab3SwingAndJDBC/TableModels/SotrTableModel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/LabsKorolev/Lab3SwingAndJDBC/TableModels/SotrTableModel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/LabsKorolev/Lab3SwingAndJDBC/TableModels/SpecTableModel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/LabsKorolev/Lab3SwingAndJDBC/TableModels/SpecTableModel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/LabsKorolev/Lab3SwingAndJDBC/TableModels/VusTableModel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/LabsKorolev/Lab3SwingAndJDBC/TableModels/VusTableModel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/com/intellij/uiDesigner/core/HorizontalInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/com/intellij/uiDesigner/core/HorizontalInfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/com/intellij/uiDesigner/core/LayoutState.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/com/intellij/uiDesigner/core/LayoutState.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/com/intellij/uiDesigner/core/Util.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/com/intellij/uiDesigner/core/Util.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/com/intellij/uiDesigner/core/VerticalInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/com/intellij/uiDesigner/core/VerticalInfo.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Tasks/javaRush/BonusWords.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/javaRush/BonusWords.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Tasks/javaRush/CheckForOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/javaRush/CheckForOrder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/javaRush/CompareStr.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/javaRush/CompareStr.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/javaRush/DictiomaryMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/javaRush/DictiomaryMap.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Tasks/javaRush/LoggerStackTrace.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/javaRush/LoggerStackTrace.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Tasks/javaRush/LongestSequence.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/javaRush/LongestSequence.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/javaRush/StopLight.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/javaRush/StopLight.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/javaRush/Three.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/javaRush/Three.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/javaRush/Years.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/javaRush/Years.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Tasks/someTask/Palindrom.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/someTask/Palindrom.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Tasks/sorting/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/sorting/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Tasks/sorting/SortingMethod.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/sorting/SortingMethod.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/Tasks/com/intellij/uiDesigner/core/AbstractLayout.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/Tasks/com/intellij/uiDesigner/core/DimensionInfo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/Tasks/com/intellij/uiDesigner/core/GridConstraints.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/Tasks/com/intellij/uiDesigner/core/GridLayoutManager.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/Tasks/com/intellij/uiDesigner/core/HorizontalInfo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/Tasks/com/intellij/uiDesigner/core/LayoutState.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/Tasks/com/intellij/uiDesigner/core/Spacer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/Tasks/com/intellij/uiDesigner/core/SupportCode$TextWithMnemonic.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/Tasks/com/intellij/uiDesigner/core/SupportCode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/Tasks/com/intellij/uiDesigner/core/Util.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/Tasks/com/intellij/uiDesigner/core/VerticalInfo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaRush/BonusWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaRush/BonusWords.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaRush/CheckForOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaRush/CheckForOrder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaRush/LoggerStackTrace.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaRush/LoggerStackTrace.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaRush/LongestSequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaRush/LongestSequence.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/someTask/Palindrom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/someTask/Palindrom.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sorting/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sorting/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sorting/SortingMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sorting/SortingMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sorting/bubble/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sorting/bubble/BubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tests/Interf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tests/Interf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tests/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tests/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tests/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tests/Test.java" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,136 +54,8 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/Tasks$Unnamed.coverage" NAME="Unnamed Coverage Results" MODIFIED="1527259340258" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="-345376879">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="2" />
-          <entry key="project.open.time.11" value="1" />
-          <entry key="project.open.time.20" value="1" />
-          <entry key="project.opened" value="2" />
-        </counts>
-      </usages-collector>
-    </session>
-    <session id="-898271769">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.open.time.0" value="1" />
-          <entry key="project.opened" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="java" value="9" />
-          <entry key="txt" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="JAVA" value="9" />
-          <entry key="PLAIN_TEXT" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="dummy" value="1" />
-          <entry key="txt" value="20" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="PLAIN_TEXT" value="21" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
   <component name="FavoritesManager">
     <favorites_list name="JavaTasks" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/javaRush/Three.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/tests/Interf.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/tests/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="32" lean-forward="true" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/tests/Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
-              <folding>
-                <element signature="e#109#110#0" expanded="true" />
-                <element signature="e#128#129#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.txt">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/javaRush/StopLight.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="595">
-              <caret line="35" column="41" selection-start-line="35" selection-start-column="41" selection-end-line="35" selection-end-column="41" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/javaRush/LongestSequence.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/sorting/SortingMethod.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1411">
-              <caret line="105" selection-start-line="105" selection-end-line="105" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/sorting/bubble/BubbleSort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -206,69 +87,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/LabsKorolev/srf/Lab2Threads/Lab2Thread/SecondThread.java" />
-        <option value="$PROJECT_DIR$/src/LabsKorolev/srf/Lab2Threads/SecondThread.java" />
-        <option value="$PROJECT_DIR$/src/LabsKorolev/srf/Lab2Threads/Main.java" />
-        <option value="$PROJECT_DIR$/src/LabsKorolev/Lab2Threads/FirstThread.java" />
-        <option value="$PROJECT_DIR$/src/LabsKorolev/Lab2Threads/Main.java" />
-        <option value="$PROJECT_DIR$/src/LabsKorolev/FirstThread.java" />
-        <option value="$PROJECT_DIR$/src/LabsKorolev/Lab2Threads/SecondThread.java" />
-        <option value="$PROJECT_DIR$/src/LabsKorolev/Lab3SwingAndJDBC/Main.java" />
-        <option value="$PROJECT_DIR$/src/LabsKorolev/Lab3SwingAndJDBC/MainWindowDialog.form" />
-        <option value="$PROJECT_DIR$/src/LabsKorolev/Lab3SwingAndJDBC/MainWindowDialog.java" />
-        <option value="$PROJECT_DIR$/src/LabsKorolev/Lab3SwingAndJDBC/DAO/InterfaceDAO.java" />
-        <option value="$PROJECT_DIR$/src/LabsKorolev/Lab3SwingAndJDBC/DAO/AbstrDAO.java" />
-        <option value="$PROJECT_DIR$/src/LabsKorolev/Lab3SwingAndJDBC/TableModels/VusTableModel.java" />
-        <option value="$PROJECT_DIR$/src/LabsKorolev/Lab3SwingAndJDBC/Entities/Vus.java" />
-        <option value="$PROJECT_DIR$/src/LabsKorolev/Lab3SwingAndJDBC/Entities/Spec.java" />
-        <option value="$PROJECT_DIR$/src/LabsKorolev/Lab3SwingAndJDBC/Entities/Sotr.java" />
-        <option value="$PROJECT_DIR$/src/LabsKorolev/Lab3SwingAndJDBC/MainGUIWindow.form" />
-        <option value="$PROJECT_DIR$/src/LabsKorolev/Lab3SwingAndJDBC/DAO/VusDAO.java" />
-        <option value="$PROJECT_DIR$/src/LabsKorolev/Lab3SwingAndJDBC/TableModels/SotrTableModel.java" />
-        <option value="$PROJECT_DIR$/src/LabsKorolev/Lab3SwingAndJDBC/MainGUIWindow.java" />
-        <option value="$PROJECT_DIR$/src/LabsKorolev/Lab3SwingAndJDBC/JDBCconnectService.java" />
-        <option value="$PROJECT_DIR$/src/LabsKorolev/Lab3SwingAndJDBC/TableModels/SpecTableModel.java" />
-        <option value="$PROJECT_DIR$/src/LabsKorolev/Lab3SwingAndJDBC/DAO/SpecDAO.java" />
-        <option value="$PROJECT_DIR$/src/LabsKorolev/Lab3SwingAndJDBC/DAO/SotrDAO.java" />
-        <option value="$PROJECT_DIR$/src/LabsKorolev/Lab4Servlets/Lab4Serltet.java" />
-        <option value="$PROJECT_DIR$/src/LabsKorolev/Lab4Servlets/Login.java" />
-        <option value="$PROJECT_DIR$/src/LabsKorolev/Lab4Servlets/StartPage.java" />
-        <option value="$PROJECT_DIR$/src/SortingAndCollections/Sorting/SortingMethod.java" />
-        <option value="$PROJECT_DIR$/src/SortingAndCollections/Sorting/Main.java" />
-        <option value="$PROJECT_DIR$/src/SortingAndCollections/List/ArrayLst.java" />
-        <option value="$PROJECT_DIR$/src/SortingAndCollections/List/Main.java" />
-        <option value="$PROJECT_DIR$/src/ForTests/Test1.java" />
-        <option value="$PROJECT_DIR$/src/ForTests/ew/Test1.java" />
-        <option value="$PROJECT_DIR$/src/ForTests/App.java" />
-        <option value="$PROJECT_DIR$/src/ForTests/Palindrom.java" />
-        <option value="$PROJECT_DIR$/src/ForTests/Main.java" />
-        <option value="$PROJECT_DIR$/src/JR/BonusWords.java" />
-        <option value="$PROJECT_DIR$/src/JR/NegativeNumber.java" />
-        <option value="$PROJECT_DIR$/src/JR/Years.java" />
-        <option value="$PROJECT_DIR$/src/JR/Cats.java" />
-        <option value="$PROJECT_DIR$/src/JR/DayWeek.java" />
-        <option value="$PROJECT_DIR$/src/someTask/Palindrom.java" />
-        <option value="$PROJECT_DIR$/src/javaRush/BonusWords.java" />
-        <option value="$PROJECT_DIR$/src/javaRush/CheckForOrder.java" />
-        <option value="$PROJECT_DIR$/src/javaRush/DictiomaryMap.java" />
-        <option value="$PROJECT_DIR$/src/javaRush/LoggerStackTrace.java" />
-        <option value="$PROJECT_DIR$/src/javaRush/LongestSequence.java" />
-        <option value="$PROJECT_DIR$/src/sorting/SortingMethod.java" />
-        <option value="$PROJECT_DIR$/src/sorting/Main.java" />
-        <option value="$PROJECT_DIR$/src/tests/Test.java" />
-        <option value="$PROJECT_DIR$/src/tests/Main.java" />
-      </list>
-    </option>
-  </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
@@ -277,121 +96,46 @@
     <option name="FILTER_DEBUG" value="true" />
     <option name="CUSTOM_FILTER" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="953" />
-    <option name="width" value="974" />
-    <option name="height" value="1167" />
-  </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <flattenPackages ProjectPane="false" />
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="PackagesPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="JavaTasks" type="58d84e3e:PackageViewProjectNode" />
-              <item name="Tasks" type="616d4139:PackageViewModuleNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="JavaTasks" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaTasks" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaTasks" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaTasks" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaTasks" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaTasks" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="javaRush" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaTasks" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaTasks" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="someTask" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaTasks" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaTasks" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="sorting" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaTasks" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaTasks" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="tests" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-    </panes>
+  <component name="ProjectId" id="1WeaBmXo2URMCADxc9dF7H5Gv0Z" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1578576402351" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1578582722454" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.14137931" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\SSDSystem\Desktop\Java\JavaTasks\src" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\SSDSystem\Desktop\Java\JavaTasks\src" />
       <recent name="C:\Users\SSDSystem\Desktop\Java\JavaTasks\src\One" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\SSDSystem\Desktop\Java\JavaTasks\src" />
+    </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.AddTwoNumbers">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BonusWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="AddTwoNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="javaRush.BonusWords" />
+      <option name="MAIN_CLASS_NAME" value="leetCode.AddTwoNumbers" />
       <module name="Tasks" />
-      <option name="PROGRAM_PARAMETERS" value="C:\Users\SSDSystem\Desktop\Developing\Java\JavaTasks\Words.txt" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaRush.*" />
+          <option name="PATTERN" value="leetCode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -399,66 +143,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DictiomaryMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="javaRush.DictiomaryMap" />
+      <option name="MAIN_CLASS_NAME" value="tests.Main" />
       <module name="Tasks" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="javaRush.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LoggerStackTrace" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="javaRush.LoggerStackTrace" />
-      <module name="Tasks" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="javaRush.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="sorting.Main" />
-      <module name="Tasks" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="sorting.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MainGUIWindow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="labsKorolev.Lab3SwingAndJDBC.MainGUIWindow" />
-      <module name="Tasks" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="labsKorolev.Lab3SwingAndJDBC.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -482,12 +170,30 @@
       <module name="Tasks" />
       <envs />
     </configuration>
-    <configuration name="Unnamed" type="Application" factoryName="Application">
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="javaRush.CheckForOrder" />
+      <option name="MAIN_CLASS_NAME" value="leetCode.Solution" />
       <module name="Tasks" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetCode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="MAIN_CLASS_NAME" value="leetCode.Solution2" />
+      <module name="Tasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetCode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -502,12 +208,14 @@
       </method>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="TestNG" factoryName="TestNG">
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <properties />
       <listeners />
@@ -529,11 +237,11 @@
         <option name="BASE_DIRECTORY_NAME" value="Unnamed_JavaTasks" />
         <option name="HTTP_PORT" value="8082" />
       </server-settings>
-      <predefined_log_file id="Tomcat" enabled="true" />
-      <predefined_log_file id="Tomcat Catalina" enabled="true" />
-      <predefined_log_file id="Tomcat Manager" enabled="false" />
-      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
-      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
       <RunnerSettings RunnerId="Debug">
         <option name="DEBUG_PORT" value="50291" />
       </RunnerSettings>
@@ -586,33 +294,42 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
       <option name="PROGRAM_PARAMETERS" />
-      <predefined_log_file id="idea.log" enabled="true" />
+      <predefined_log_file enabled="true" id="idea.log" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Unnamed" />
-      <item itemvalue="Tomcat Server.Unnamed" />
-      <item itemvalue="Application.BonusWords" />
-      <item itemvalue="Application.DictiomaryMap" />
-      <item itemvalue="Application.MainGUIWindow" />
-      <item itemvalue="Application.LoggerStackTrace" />
       <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Solution" />
+      <item itemvalue="Application.Solution2" />
+      <item itemvalue="Application.AddTwoNumbers" />
+      <item itemvalue="Tomcat Server.Unnamed" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AddTwoNumbers" />
+        <item itemvalue="Application.Solution2" />
+        <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.LoggerStackTrace" />
-        <item itemvalue="Application.DictiomaryMap" />
-        <item itemvalue="Application.BonusWords" />
-        <item itemvalue="Application.MainGUIWindow" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -687,47 +404,30 @@
       <workItem from="1539353422976" duration="1171000" />
       <workItem from="1539358368299" duration="87000" />
       <workItem from="1542114177725" duration="23000" />
-      <workItem from="1578575282764" duration="1085000" />
+      <workItem from="1578575282764" duration="2962000" />
+      <workItem from="1578595262077" duration="95000" />
+      <workItem from="1579512382336" duration="2757000" />
+      <workItem from="1579529519525" duration="3000" />
+      <workItem from="1579541427179" duration="2851000" />
+      <workItem from="1579945998921" duration="5248000" />
+      <workItem from="1579964915373" duration="9347000" />
     </task>
+    <task id="LOCAL-00001" summary="enter to IT">
+      <created>1578576397577</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1578576397577</updated>
+    </task>
+    <task id="LOCAL-00002" summary="enter to IT">
+      <created>1578576446669</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1578576446669</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="195195000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1176" extended-state="6" />
-    <layout>
-      <window_info id="Image Layers" order="0" />
-      <window_info id="Capture Tool" order="1" />
-      <window_info id="Designer" order="2" />
-      <window_info id="UI Designer" order="3" />
-      <window_info id="Favorites" order="4" show_stripe_button="false" sideWeight="0.3097826" side_tool="true" weight="0.25" />
-      <window_info x="226" y="521" width="469" height="920" id="Structure" order="5" sideWeight="0.1037037" side_tool="true" visible="true" weight="0.21162046" />
-      <window_info content_ui="combo" id="Project" order="6" sideWeight="0.8962963" visible="true" weight="0.21162046" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32598275" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49791667" weight="0.32467532" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3939394" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32979852" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50208336" side_tool="true" weight="0.32979852" />
-      <window_info active="true" anchor="bottom" id="Messages" order="10" visible="true" weight="0.22339405" />
-      <window_info anchor="bottom" id="Application Servers" order="11" weight="0.32979852" />
-      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Database" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Maven Projects" order="8" />
-      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.3296875" />
-    </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -738,336 +438,339 @@
         <entry key="MAIN">
           <value>
             <State>
-              <option name="RECENTLY_FILTERED_USER_GROUPS">
-                <collection />
-              </option>
-              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-                <collection />
-              </option>
-              <option name="COLUMN_ORDER">
-                <list>
-                  <option value="0" />
-                  <option value="1" />
-                  <option value="2" />
-                  <option value="3" />
-                </list>
-              </option>
+              <option name="COLUMN_ORDER" />
             </State>
           </value>
         </entry>
       </map>
     </option>
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="enter to IT" />
     <option name="LAST_COMMIT_MESSAGE" value="enter to IT" />
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/labsKorolev/Lab3SwingAndJDBC/TableModels/SpecTableModel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="714">
-          <caret line="53" column="5" selection-start-line="53" selection-start-column="5" selection-end-line="53" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/labsKorolev/Lab3SwingAndJDBC/TableModels/VusTableModel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="46" column="28" selection-start-line="46" selection-start-column="28" selection-end-line="46" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ForTests/ew/Test1.java" />
-    <entry file="file://$PROJECT_DIR$/src/Krok/KrokEx.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/io/PrintStream.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/io/FileInputStream.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/System.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/io/InputStream.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/String.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/Object.java" />
-    <entry file="file://$PROJECT_DIR$/src/JR/Two.java" />
-    <entry file="file://$PROJECT_DIR$/src/JR/One.java" />
-    <entry file="file://$PROJECT_DIR$/src/JR/NegativeNumber.java" />
-    <entry file="file://$PROJECT_DIR$/src/JR/BelowFive.java" />
-    <entry file="file://$PROJECT_DIR$/src/JR/Cats.java" />
-    <entry file="file://$PROJECT_DIR$/src/JR/DayWeek.java" />
-    <entry file="file://$PROJECT_DIR$/src/JR/Five.java" />
-    <entry file="file://$PROJECT_DIR$/src/JR/Four.java" />
-    <entry file="file://$PROJECT_DIR$/src/JR/Interval.java" />
-    <entry file="file://$PROJECT_DIR$/src/JR/NearestToTen.java" />
-    <entry file="file://$PROJECT_DIR$/src/JR/Season.java" />
-    <entry file="file://$PROJECT_DIR$/src/JR/MinOfNumbers.java" />
-    <entry file="file://$PROJECT_DIR$/src/ForTests/App.java" />
-    <entry file="file://$PROJECT_DIR$/src/ForTests/Main.java" />
-    <entry file="file://$PROJECT_DIR$/src/workWithCollections/List/ArrayLst.java" />
-    <entry file="file://$PROJECT_DIR$/src/workWithCollections/List/LinkedLst.java" />
-    <entry file="file://$PROJECT_DIR$/src/workWithCollections/List/Main.java" />
-    <entry file="file://$PROJECT_DIR$/src/labsKorolev/Lab2Threads/SecondThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/labsKorolev/Lab2Threads/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/labsKorolev/Lab3SwingAndJDBC/MainGUIWindow.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="29" selection-start-line="29" selection-end-line="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/labsKorolev/Lab2Threads/FirstThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/labsKorolev/Lab3SwingAndJDBC/JDBCconnectService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="39" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Words.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="26" selection-start-column="26" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/someTask/Palindrom.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaRush/BonusWords.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="33" lean-forward="true" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaRush/CheckForOrder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="318">
-          <caret line="37" column="11" selection-start-line="37" selection-start-column="11" selection-end-line="37" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaRush/CompareStr.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sorting/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="11" column="47" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <marker date="1538468260668" expanded="true" signature="249:368" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaRush/Years.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tasks.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaRush/LoggerStackTrace.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaRush/DictiomaryMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="685">
-          <caret line="43" selection-start-line="43" selection-end-line="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaRush/Three.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaRush/StopLight.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="35" column="41" selection-start-line="35" selection-start-column="41" selection-end-line="35" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaRush/LongestSequence.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sorting/SortingMethod.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1411">
-          <caret line="105" selection-start-line="105" selection-end-line="105" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sorting/bubble/BubbleSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/tests/Interf.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/tests/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="32" lean-forward="true" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/tests/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
-          <folding>
-            <element signature="e#109#110#0" expanded="true" />
-            <element signature="e#128#129#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+  <component name="WindowStateProjectService">
+    <state x="414" y="235" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579972860575">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="414" y="235" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1579972860575" />
+    <state x="765" y="296" key="#com.intellij.ide.util.MemberChooser" timestamp="1579542073428">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="765" y="296" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1160@0.0.1920.1160" timestamp="1579542073428" />
+    <state x="689" y="364" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1579513807749">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="689" y="364" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1579513807749" />
+    <state x="761" y="403" key="FileChooserDialogImpl" timestamp="1579514540176">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="761" y="403" key="FileChooserDialogImpl/0.0.1920.1160@0.0.1920.1160" timestamp="1579514540176" />
+    <state width="1877" height="389" key="GridCell.Tab.0.bottom" timestamp="1579974836125">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="389" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1579974836125" />
+    <state width="1877" height="389" key="GridCell.Tab.0.center" timestamp="1579974836125">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="389" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1579974836125" />
+    <state width="1877" height="389" key="GridCell.Tab.0.left" timestamp="1579974836125">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="389" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1579974836125" />
+    <state width="1877" height="389" key="GridCell.Tab.0.right" timestamp="1579974836125">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="389" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1579974836125" />
+    <state width="1877" height="389" key="GridCell.Tab.1.bottom" timestamp="1579974836126">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="389" key="GridCell.Tab.1.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1579974836126" />
+    <state width="1877" height="389" key="GridCell.Tab.1.center" timestamp="1579974836125">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="389" key="GridCell.Tab.1.center/0.0.1920.1160@0.0.1920.1160" timestamp="1579974836125" />
+    <state width="1877" height="389" key="GridCell.Tab.1.left" timestamp="1579974836125">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="389" key="GridCell.Tab.1.left/0.0.1920.1160@0.0.1920.1160" timestamp="1579974836125" />
+    <state width="1877" height="389" key="GridCell.Tab.1.right" timestamp="1579974836125">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="389" key="GridCell.Tab.1.right/0.0.1920.1160@0.0.1920.1160" timestamp="1579974836125" />
+    <state x="461" y="223" key="SettingsEditor" timestamp="1579513770309">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="461" y="223" key="SettingsEditor/0.0.1920.1160@0.0.1920.1160" timestamp="1579513770309" />
+    <state x="769" y="497" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1579974873797">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="769" y="497" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1160@0.0.1920.1160" timestamp="1579974873797" />
   </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArquillianSettingsConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.14137931" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.14137931" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>No facets are configured</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.14137931" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.14137931" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.14137931" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>Tasks</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.14137931" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.14137931" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ScopeChooserConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.14137931" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetCode/Solution.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetCode/Solution.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetCode/Solution.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetCode/Solution.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetCode/Solution.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetCode/Solution.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetCode/Solution.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetCode/Solution.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetCode/Solution.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetCode/Solution.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetCode/Solution.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetCode/Solution.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetCode/Solution.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetCode/Solution.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetCode/Solution.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetCode/Solution.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetCode/Solution.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetCode/Solution.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetCode/Solution.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetCode/Solution.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetCode/Solution.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetCode/Solution.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetCode/AddTwoNumbers.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetCode/AddTwoNumbers.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetCode/AddTwoNumbers.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetCode/AddTwoNumbers.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetCode/AddTwoNumbers.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetCode/AddTwoNumbers.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetCode/AddTwoNumbers.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetCode/AddTwoNumbers.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetCode/AddTwoNumbers.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetCode/AddTwoNumbers.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetCode/AddTwoNumbers.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetCode/AddTwoNumbers.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetCode/AddTwoNumbers.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetCode/AddTwoNumbers.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetCode/AddTwoNumbers.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetCode/AddTwoNumbers.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetCode/AddTwoNumbers.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetCode/AddTwoNumbers.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetCode/AddTwoNumbers.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetCode/AddTwoNumbers.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetCode/AddTwoNumbers.java</url>
+          <line>58</line>
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetCode/AddTwoNumbers.java</url>
+          <line>59</line>
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetCode/AddTwoNumbers.java</url>
+          <line>60</line>
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetCode/AddTwoNumbers.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetCode/AddTwoNumbers.java</url>
+          <line>62</line>
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetCode/AddTwoNumbers.java</url>
+          <line>63</line>
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetCode/AddTwoNumbers.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetCode/AddTwoNumbers.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetCode/AddTwoNumbers.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetCode/AddTwoNumbers.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

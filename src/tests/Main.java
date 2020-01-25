@@ -1,29 +1,24 @@
 package tests;
 
+import java.util.LinkedList;
+import java.util.List;
+
 public class Main implements Interf{
 
-    private int x = 4;
+    private int[] arr = new int[]{1,2,3,4,5};
 
     public static void main(String[] args) {
 
-        Test t = new Test();
-        System.out.println(t.a);
-        t.metod(t.a);
-        System.out.println(t.a);
-        Interf interf = new Main();
-        System.out.println();
-        t.printMet("ууу");
+        List <Integer> lst = new LinkedList<>();
+        lst.add(3);
 
+        System.out.println(lst.get(2));
 
     }
-
-     void stMet (){
-         System.out.println("к");
-     }
-
 
     @Override
     public void printMet(String str) {
         System.out.println(str);
     }
+
 }

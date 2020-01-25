@@ -17,10 +17,6 @@ public class Test extends Main {
         this.sa = sa;
     }
 
-    @Override
-    void stMet (){
-        System.out.println("к");
-    }
 
     @Override
     public void printMet(String str) {
