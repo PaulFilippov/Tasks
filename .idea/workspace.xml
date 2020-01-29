@@ -1,50 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4b92d9c5-e7e8-4b31-9634-2cc38d6cf19f" name="Default" comment="enter to IT">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="4b92d9c5-e7e8-4b31-9634-2cc38d6cf19f" name="Default" comment="2 ex from leetcode">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.txt" beforeDir="false" afterPath="$PROJECT_DIR$/README.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tasks.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Tasks/LabsKorolev/Lab2Threads/FirstThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/LabsKorolev/Lab2Threads/FirstThread.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Tasks/LabsKorolev/Lab2Threads/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/LabsKorolev/Lab2Threads/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Tasks/LabsKorolev/Lab2Threads/SecondThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/LabsKorolev/Lab2Threads/SecondThread.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Tasks/LabsKorolev/Lab3SwingAndJDBC/DAO/AbstrDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/LabsKorolev/Lab3SwingAndJDBC/DAO/AbstrDAO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Tasks/LabsKorolev/Lab3SwingAndJDBC/DAO/SotrDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/LabsKorolev/Lab3SwingAndJDBC/DAO/SotrDAO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Tasks/LabsKorolev/Lab3SwingAndJDBC/DAO/SpecDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/LabsKorolev/Lab3SwingAndJDBC/DAO/SpecDAO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Tasks/LabsKorolev/Lab3SwingAndJDBC/DAO/VusDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/LabsKorolev/Lab3SwingAndJDBC/DAO/VusDAO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Tasks/LabsKorolev/Lab3SwingAndJDBC/Entities/Sotr.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/LabsKorolev/Lab3SwingAndJDBC/Entities/Sotr.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Tasks/LabsKorolev/Lab3SwingAndJDBC/Entities/Spec.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/LabsKorolev/Lab3SwingAndJDBC/Entities/Spec.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Tasks/LabsKorolev/Lab3SwingAndJDBC/Entities/Vus.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/LabsKorolev/Lab3SwingAndJDBC/Entities/Vus.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Tasks/LabsKorolev/Lab3SwingAndJDBC/JDBCconnectService.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/LabsKorolev/Lab3SwingAndJDBC/JDBCconnectService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Tasks/LabsKorolev/Lab3SwingAndJDBC/MainGUIWindow$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/LabsKorolev/Lab3SwingAndJDBC/MainGUIWindow$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Tasks/LabsKorolev/Lab3SwingAndJDBC/MainGUIWindow$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/LabsKorolev/Lab3SwingAndJDBC/MainGUIWindow$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Tasks/LabsKorolev/Lab3SwingAndJDBC/MainGUIWindow.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/LabsKorolev/Lab3SwingAndJDBC/MainGUIWindow.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Tasks/LabsKorolev/Lab3SwingAndJDBC/TableModels/SotrTableModel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/LabsKorolev/Lab3SwingAndJDBC/TableModels/SotrTableModel.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Tasks/LabsKorolev/Lab3SwingAndJDBC/TableModels/SpecTableModel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/LabsKorolev/Lab3SwingAndJDBC/TableModels/SpecTableModel.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Tasks/LabsKorolev/Lab3SwingAndJDBC/TableModels/VusTableModel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/LabsKorolev/Lab3SwingAndJDBC/TableModels/VusTableModel.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Tasks/com/intellij/uiDesigner/core/HorizontalInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/com/intellij/uiDesigner/core/HorizontalInfo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Tasks/com/intellij/uiDesigner/core/LayoutState.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/com/intellij/uiDesigner/core/LayoutState.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Tasks/com/intellij/uiDesigner/core/Util.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/com/intellij/uiDesigner/core/Util.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Tasks/com/intellij/uiDesigner/core/VerticalInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/com/intellij/uiDesigner/core/VerticalInfo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Tasks/javaRush/BonusWords.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/javaRush/BonusWords.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Tasks/javaRush/CheckForOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/javaRush/CheckForOrder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Tasks/javaRush/CompareStr.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/javaRush/CompareStr.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Tasks/javaRush/DictiomaryMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/javaRush/DictiomaryMap.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Tasks/javaRush/LoggerStackTrace.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/javaRush/LoggerStackTrace.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Tasks/javaRush/LongestSequence.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/javaRush/LongestSequence.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Tasks/javaRush/StopLight.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/javaRush/StopLight.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Tasks/javaRush/Three.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/javaRush/Three.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Tasks/javaRush/Years.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/javaRush/Years.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Tasks/someTask/Palindrom.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/someTask/Palindrom.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Tasks/sorting/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/sorting/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Tasks/sorting/SortingMethod.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/sorting/SortingMethod.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sorting/bubble/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sorting/bubble/BubbleSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tests/Interf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tests/Interf.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tests/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tests/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tests/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tests/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -410,7 +368,8 @@
       <workItem from="1579529519525" duration="3000" />
       <workItem from="1579541427179" duration="2851000" />
       <workItem from="1579945998921" duration="5248000" />
-      <workItem from="1579964915373" duration="9347000" />
+      <workItem from="1579964915373" duration="9455000" />
+      <workItem from="1580025849215" duration="2165000" />
     </task>
     <task id="LOCAL-00001" summary="enter to IT">
       <created>1578576397577</created>
@@ -426,7 +385,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578576446669</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="2 ex from leetcode">
+      <created>1579974925179</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1579974925179</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -447,7 +413,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="enter to IT" />
-    <option name="LAST_COMMIT_MESSAGE" value="enter to IT" />
+    <MESSAGE value="2 ex from leetcode" />
+    <option name="LAST_COMMIT_MESSAGE" value="2 ex from leetcode" />
   </component>
   <component name="WindowStateProjectService">
     <state x="414" y="235" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579972860575">
@@ -462,50 +429,58 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="689" y="364" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1579513807749" />
+    <state x="615" y="175" key="CommitChangelistDialog2" timestamp="1579974923062">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="615" y="175" key="CommitChangelistDialog2/0.0.1920.1160@0.0.1920.1160" timestamp="1579974923062" />
     <state x="761" y="403" key="FileChooserDialogImpl" timestamp="1579514540176">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="761" y="403" key="FileChooserDialogImpl/0.0.1920.1160@0.0.1920.1160" timestamp="1579514540176" />
-    <state width="1877" height="389" key="GridCell.Tab.0.bottom" timestamp="1579974836125">
+    <state width="1877" height="389" key="GridCell.Tab.0.bottom" timestamp="1579974941819">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="1877" height="389" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1579974836125" />
-    <state width="1877" height="389" key="GridCell.Tab.0.center" timestamp="1579974836125">
+    <state width="1877" height="389" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1579974941819" />
+    <state width="1877" height="389" key="GridCell.Tab.0.center" timestamp="1579974941818">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="1877" height="389" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1579974836125" />
-    <state width="1877" height="389" key="GridCell.Tab.0.left" timestamp="1579974836125">
+    <state width="1877" height="389" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1579974941818" />
+    <state width="1877" height="389" key="GridCell.Tab.0.left" timestamp="1579974941818">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="1877" height="389" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1579974836125" />
-    <state width="1877" height="389" key="GridCell.Tab.0.right" timestamp="1579974836125">
+    <state width="1877" height="389" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1579974941818" />
+    <state width="1877" height="389" key="GridCell.Tab.0.right" timestamp="1579974941819">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="1877" height="389" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1579974836125" />
-    <state width="1877" height="389" key="GridCell.Tab.1.bottom" timestamp="1579974836126">
+    <state width="1877" height="389" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1579974941819" />
+    <state width="1877" height="389" key="GridCell.Tab.1.bottom" timestamp="1579974941819">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="1877" height="389" key="GridCell.Tab.1.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1579974836126" />
-    <state width="1877" height="389" key="GridCell.Tab.1.center" timestamp="1579974836125">
+    <state width="1877" height="389" key="GridCell.Tab.1.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1579974941819" />
+    <state width="1877" height="389" key="GridCell.Tab.1.center" timestamp="1579974941819">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="1877" height="389" key="GridCell.Tab.1.center/0.0.1920.1160@0.0.1920.1160" timestamp="1579974836125" />
-    <state width="1877" height="389" key="GridCell.Tab.1.left" timestamp="1579974836125">
+    <state width="1877" height="389" key="GridCell.Tab.1.center/0.0.1920.1160@0.0.1920.1160" timestamp="1579974941819" />
+    <state width="1877" height="389" key="GridCell.Tab.1.left" timestamp="1579974941819">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="1877" height="389" key="GridCell.Tab.1.left/0.0.1920.1160@0.0.1920.1160" timestamp="1579974836125" />
-    <state width="1877" height="389" key="GridCell.Tab.1.right" timestamp="1579974836125">
+    <state width="1877" height="389" key="GridCell.Tab.1.left/0.0.1920.1160@0.0.1920.1160" timestamp="1579974941819" />
+    <state width="1877" height="389" key="GridCell.Tab.1.right" timestamp="1579974941819">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="1877" height="389" key="GridCell.Tab.1.right/0.0.1920.1160@0.0.1920.1160" timestamp="1579974836125" />
+    <state width="1877" height="389" key="GridCell.Tab.1.right/0.0.1920.1160@0.0.1920.1160" timestamp="1579974941819" />
     <state x="461" y="223" key="SettingsEditor" timestamp="1579513770309">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="461" y="223" key="SettingsEditor/0.0.1920.1160@0.0.1920.1160" timestamp="1579513770309" />
-    <state x="769" y="497" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1579974873797">
+    <state x="552" y="313" key="Vcs.Push.Dialog.v2" timestamp="1579974930139">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="769" y="497" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1160@0.0.1920.1160" timestamp="1579974873797" />
+    <state x="552" y="313" key="Vcs.Push.Dialog.v2/0.0.1920.1160@0.0.1920.1160" timestamp="1579974930139" />
+    <state x="769" y="497" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1580283811905">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="769" y="497" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1160@0.0.1920.1160" timestamp="1580283811905" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
