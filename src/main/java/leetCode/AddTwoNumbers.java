@@ -16,7 +16,6 @@ Explanation: 342 + 465 = 807.
 */
 
 import java.util.Arrays;
-import java.util.Collections;
 import java.util.LinkedList;
 import java.util.List;
 
