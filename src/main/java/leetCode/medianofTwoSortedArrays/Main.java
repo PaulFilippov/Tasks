@@ -1,4 +1,4 @@
-package leetCode.MedianofTwoSortedArrays;
+package leetCode.medianofTwoSortedArrays;
 
 public class Main {
     public static void main(String[] args) {

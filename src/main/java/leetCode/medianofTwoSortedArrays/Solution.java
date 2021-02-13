@@ -1,4 +1,4 @@
-package leetCode.MedianofTwoSortedArrays;
+package leetCode.medianofTwoSortedArrays;
 
 public class Solution {
     int k = 0;
